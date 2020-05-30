@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sten Tamkivi
 
 # Username (this should match the folder name)
 authors:
@@ -10,33 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Entrepreneur and investor
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+# organizations:
+#- name: Tamkivi.com
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I build software for people on the move.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  - course: MS in Management
+    institution: Stanford University, Graduate School of Business
+    year: 2013
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -44,16 +38,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'http://www.shortwhale.com/seikatsu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/seikatsu
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/stentamkivi
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/stamkivi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,15 +55,17 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sten@tamkivi.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sten Tamkivi is on a mission to help free people move and make governments compete for every citizen.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sten co-founded Teleport (acquired by Topia in 2017) as an EIR at Andreessen Horowitz, after serving at Skype as an early executive for over 8 years from startup to the $8.5B exit to MSFT. Sten started his entrepreneurial career founding the first digital media agency in Estonia in 1996, at the age of 18.
+
+Sten values a tolerant, open and creative society, speaks up for entrepreneurship, supports the startup movement, occasionally invests, pushes for better tech education and has advised President Ilves of Estonia on the above. He also holds a number of public, private and non-profit board seats.
