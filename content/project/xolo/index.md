@@ -1,41 +1,31 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Xolo"
-summary: ""
+title: Xolo
+summary: ''
 authors: []
-tags: []
-categories: []
-date: 2020-05-30T15:27:07+03:00
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+tags:
+- invested in
+- startup
+categories:
+- company
+date: 2020-05-30T12:27:07.000+00:00
+external_link: ''
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+slides: ''
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
+Seed investor.
+
+Xolo takes care of getting your one-person business up and running. 
+
+Xolo was founded as LeapIn in May 2015 out of the urge to revolutionize the way people become entrepreneurs and manage their companies.
+
+You can start your own Estonian limited liability company (OÜ) as an [E-resident](/project/e-residency) or you can send invoices in partnership with Xolo without founding a company.
+
+You don’t need to get acquainted with all the paperwork and legal jargon. Use your time to create value for your customers instead of standing in queues in public offices or visiting notaries.
