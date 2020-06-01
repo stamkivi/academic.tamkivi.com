@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Andreessen Horowitz"
+title: "Halo"
 summary: ""
 authors: []
-tags: ["worked at", "vc"]
+tags: ["founded"]
 categories: ["company"]
-date: 2020-05-30T15:24:56+03:00
+date: 2020-06-01T10:55:54+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -14,24 +14,18 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: 
-  placement: 2
+image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-
-links:
-- name: Web site
-  url: https://a16z.com
-  icon_pack: fas
-  icon: link
-- name: Follow
-  url: https://twitter.com/a16z
-  icon_pack: fab
-  icon: twitter
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
 url_code: ""
 url_pdf: ""
@@ -46,9 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-Entrepreneur in Residence 2013-2014, which lead to founding and funding of [Teleport](/project/teleport).
+The first digital media agency in Estonia. Founded in 1996 straight out of high school. Sold to [DDB Worldwide](https://www.ddb.com/) in 1997. Folded in 2001 along with dotcom bubble.
 
-Further reading from and about this period:
-* [Backstory of joining a16z](https://sten.tamkivi.com/2013/08/sten-a16z/)
-* [Blog post: what does an EIR actually do?](https://sten.tamkivi.com/2013/12/so-what-does-an-eir-actually-do/)
-* [Appearances on a16z blog & podcast](https://a16z.com/author/sten-tamkivi/)
+A Northern Star of its time, Halo spawned a few dozen influential early internet people (UX, design, web development, software engineering) who have had notable influence on the Estonian and European startup scene over the decade since.
+

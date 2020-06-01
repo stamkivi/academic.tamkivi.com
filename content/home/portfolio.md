@@ -42,10 +42,6 @@ subtitle = ""
      tag = "exited"
 
   [[content.filter_button]]
-     name = "Startups"
-     tag = "startup"
-
-  [[content.filter_button]]
      name = "Funds"
      tag = "vc"
 

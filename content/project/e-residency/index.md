@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Andreessen Horowitz"
+title: "Estonian E-Residency"
 summary: ""
 authors: []
-tags: ["worked at", "vc"]
-categories: ["company"]
-date: 2020-05-30T15:24:56+03:00
+tags: ["worked at", "nonprofit"]
+categories: ["nonprofit"]
+date: 2020-06-01T10:56:41+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -14,24 +14,24 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: 
-  placement: 2
+image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
 links:
 - name: Web site
-  url: https://a16z.com
+  url: https://e-resident.gov.ee/
   icon_pack: fas
   icon: link
-- name: Follow
-  url: https://twitter.com/a16z
-  icon_pack: fab
-  icon: twitter
 
 url_code: ""
 url_pdf: ""
@@ -45,10 +45,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Member of Supervisory Board.
 
-Entrepreneur in Residence 2013-2014, which lead to founding and funding of [Teleport](/project/teleport).
+Estonia is the first country to offer e-Residency, a government-issued digital identity and status that provides access to Estonia’s transparent digital business environment.
 
-Further reading from and about this period:
-* [Backstory of joining a16z](https://sten.tamkivi.com/2013/08/sten-a16z/)
-* [Blog post: what does an EIR actually do?](https://sten.tamkivi.com/2013/12/so-what-does-an-eir-actually-do/)
-* [Appearances on a16z blog & podcast](https://a16z.com/author/sten-tamkivi/)
+E-Residency enables digital entrepreneurs to start and manage an EU-based company online.
+
+E-Residency is also a platform for a [wide range of startups and established companies](https://e-resident.gov.ee/marketplace/service-providers/) to expand their adressable market. Among those [Xolo](project/xolo), [LHV](/project/lhv), [Transferwise](/project/transferwise) and many others.

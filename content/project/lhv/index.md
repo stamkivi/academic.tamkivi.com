@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -26,6 +26,12 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: Web site
+  url: https://lhv.ee
+  icon_pack: fas
+  icon: link
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +45,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Member of Supervisory Board.
+
+LHV is the biggest domestic financial group in Estonia. Our mission is to help to create Estonian capital. According to our vision, the people and enterprises of Estonia have the courage to think big, start things and invest in the future. Our values are to be simple, supportive and effective.
+
+My main personal passion about, and hopefully also contribution to the bank's future is the ambition to go global: how we support the budding global fintech industry with modern, compliant and licenced banking infrastructure to innovate on. Back in 2018 we opened a [branch in London](https://lhv.co.uk/about/) with that focus, and already serve near a hundred super fast growing fintechs, led by whales like [Transferwise](/project/transferwise) and Coinbase.
+
