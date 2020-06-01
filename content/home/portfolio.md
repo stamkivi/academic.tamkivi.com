@@ -36,7 +36,7 @@ subtitle = ""
   [[content.filter_button]]
      name = "Invested in"
      tag = "invested in"
-  
+
   [[content.filter_button]]
      name = "Exited"
      tag = "exited"
@@ -44,7 +44,7 @@ subtitle = ""
   [[content.filter_button]]
      name = "Funds"
      tag = "vc"
-
+  
   [[content.filter_button]]
      name = "Non-profit"
      tag = "nonprofit"

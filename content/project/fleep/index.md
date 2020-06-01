@@ -4,8 +4,8 @@
 title: "Fleep"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["invested in", "startup"]
+categories: ["company"]
 date: 2020-05-30T15:27:00+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -26,6 +26,17 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: Web site
+  url: https://fleep.io/
+  icon_pack: fas
+  icon: link
+- name: Download
+  url: https://fleep.io/downloads
+  icon_pack: fas
+  icon: download
+
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +50,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Seed investor.
+
+Fleep is a conversation-centric work messenger from a group of early Skype engineers.
+
+Founded by Henn Ruukel, Asko Oja, Erik Laansoo, Andres Järviste, Marko Kreen.

@@ -4,7 +4,7 @@
 title: "Halo Interactive DDB"
 summary: ""
 authors: []
-tags: ["founded"]
+tags: ["founded", "exited"]
 categories: ["company"]
 date: 2020-05-01T10:55:54+03:00
 

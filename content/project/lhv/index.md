@@ -32,6 +32,10 @@ links:
   url: https://lhv.ee
   icon_pack: fas
   icon: link
+- name: LHV1T on Nasdaq
+  url: https://nasdaqbaltic.com/statistics/en/instrument/EE3100073644/trading
+  icon_pack: fas
+  icon: chart-line
 
 url_code: ""
 url_pdf: ""
@@ -51,3 +55,4 @@ LHV is the biggest domestic financial group in Estonia. Our mission is to help t
 
 My main personal passion about, and hopefully also contribution to the bank's future is the ambition to go global: how we support the budding global fintech industry with modern, compliant and licenced banking infrastructure to innovate on. Back in 2018 we opened a [branch in London](https://lhv.co.uk/about/) with that focus, and already serve near a hundred super fast growing fintechs, led by whales like [Transferwise](/project/transferwise) and Coinbase.
 
+[LHV is listed on Nasdaq Tallinn Stock Exchange](https://nasdaqbaltic.com/statistics/en/instrument/EE3100073644/trading) since 2016, which was also my first inside experience of taking a company public via an IPO.

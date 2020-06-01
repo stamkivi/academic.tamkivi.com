@@ -1,13 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Skype"
-summary: ""
+title: "President Ilves"
+summary: "Advisor to President Ilves of Estonia, 2009-12."
 authors: []
-tags: ["worked at"]
-categories: ["company"]
-sharing: false
-date: 2020-05-30T15:14:32+03:00
+tags: ["worked at", "nonprofit"]
+categories: ["nonprofit"]
+date: 2020-06-01T16:21:12+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Skype logos"
+  caption: ""
   focal_point: ""
   preview_only: true
 
@@ -40,8 +39,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Early executive 2005-2012.
+Advisor to President Ilves of Estonia.
 
-Joined Skype as a startup about 18 months in, just before the eBay acquisition.
+ In 2009-12 I was honored to act as an advisor to [President Toomas Hendrik Ilves](https://vp2006-2016.president.ee/en/president/biography/index.html) on matters related to information technology, innovation and entrepreneurship.
 
-Grew the original R&D center to 450 people as the General Manager, and held a number of product engineering executive positions on the global basis.
+Here's [the announcement at the time](https://vp2006-2016.president.ee/en/media/press-releases/1999-sten-tamkivi-head-of-skype-estonia-to-advise-the-president/index.html).
+
+We have contnued collaboration on other projects since, most notably on [Estonia's Friends International Meeting](/project/efim).
+
+![](IMG_1662.jpg)

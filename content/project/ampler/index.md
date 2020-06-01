@@ -41,7 +41,6 @@ links:
   icon_pack: fas
   icon: chart-line
 
-
 url_code: ""
 url_pdf: ""
 url_slides: ""

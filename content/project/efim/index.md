@@ -1,13 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Skype"
+title: "Estonia's Friends International Meeting"
 summary: ""
 authors: []
-tags: ["worked at"]
-categories: ["company"]
-sharing: false
-date: 2020-05-30T15:14:32+03:00
+tags: ["nonprofit"]
+categories: ["nonprofit"]
+date: 2020-06-01T16:25:58+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,17 +15,17 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Skype logos"
+  caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Web site
+  url: http://estoniasfriends.org/
+  icon_pack: fas
+  icon: link
 
 url_code: ""
 url_pdf: ""
@@ -40,8 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Early executive 2005-2012.
+Patron.
 
-Joined Skype as a startup about 18 months in, just before the eBay acquisition.
-
-Grew the original R&D center to 450 people as the General Manager, and held a number of product engineering executive positions on the global basis.

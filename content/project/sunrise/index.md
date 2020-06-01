@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,3 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Invested in Seed round.
+
+Sunrise built a truly better calendar on web and mobile.
+
+Founded by Pierre Valade and Jeremy Le Van.
+
+[Acquired by Microsoft in 2015 for $100M+](https://techcrunch.com/2015/02/04/microsoft-sunrise/).
