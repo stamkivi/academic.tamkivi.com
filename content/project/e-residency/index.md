@@ -4,7 +4,7 @@
 title: "Estonian E-Residency"
 summary: ""
 authors: []
-tags: ["worked at", "nonprofit"]
+tags: ["worked at", "nonprofit", "board"]
 categories: ["nonprofit"]
 date: 2020-06-01T10:56:41+03:00
 

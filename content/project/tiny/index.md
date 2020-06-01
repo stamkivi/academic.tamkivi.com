@@ -1,16 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Oyster"
+title: "Tiny"
 summary: ""
 authors: []
-tags: ["invested in"]
-categories: ["company"]
-date: 2020-05-30T15:29:37+03:00
-draft: true
+tags: []
+categories: []
+date: 2020-06-01T20:04:04+03:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.oysterhr.com/"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,12 +26,6 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-links:
-- name: Web site
-  url: https://www.oysterhr.com/
-  icon_pack: fas
-  icon: link
-
 
 url_code: ""
 url_pdf: ""
@@ -46,7 +39,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Seed investor.
-
-Oyster makes it easy to hire, pay, and give great benefits to your distributed team around the world.
-
