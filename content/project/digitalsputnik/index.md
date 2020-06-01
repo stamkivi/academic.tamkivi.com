@@ -19,13 +19,15 @@ image:
   focal_point: ""
   preview_only: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Web site
+  url: https://www.digitalsputnik.com/
+  icon_pack: fas
+  icon: link
+- name: Buy a smart light
+  url: https://www.digitalsputnik.com/shop
+  icon_pack: fas
+  icon: shopping-cart
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +41,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Investor.
+
+Digital Sputnik's unqiue software controlled LED lightning systems have been used in movies from Star Wars to Independence Day.
+
+Now they have made this next gen movie magic tech available to prosumers with their affordable Voyager series.
+
+Founded by Kaur & Kaspar Kallas.

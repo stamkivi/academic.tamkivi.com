@@ -50,4 +50,6 @@ Late stage investor.
 
 Ride sharing and food delivery powerhouse covering dozens of markets in Europe and Africa with cars and scooters.
 
-Founded by Markus & Martin Villig, this fast growing Uber competitor has already become legendary in local angel investor circles as "too expensive at a million dollar seed round, but looks cheap at a billion".
+Founded by Markus & Martin Villig.
+
+This fast growing Uber competitor has already become legendary in local angel investor circles as "too expensive at a million dollar seed round, but looks cheap at a billion".
