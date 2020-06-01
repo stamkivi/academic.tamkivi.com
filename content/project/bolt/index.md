@@ -4,8 +4,8 @@
 title: "Bolt"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["invested in", "startup"]
+categories: ["company"]
 date: 2020-05-30T15:25:26+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -27,6 +27,13 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: Web site
+  url: https://bolt.eu/en/
+  icon_pack: fas
+  icon: link
+
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -39,3 +46,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Late stage investor.
+
+Ride sharing and food delivery powerhouse covering dozens of markets in Europe and Africa with cars and scooters.
+
+Founded by Markus & Martin Villig, this fast growing Uber competitor has already become legendary in local angel investor circles as "too expensive at a million dollar seed round, but looks cheap at a billion".

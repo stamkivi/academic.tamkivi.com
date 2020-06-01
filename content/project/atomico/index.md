@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -26,6 +26,12 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: Web site
+  url: https://atomico.com
+  icon_pack: fas
+  icon: link
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +45,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Limited Partner.
+
+Atomico invests in Europe’s most ambitious tech founders at Series A and beyond. Founded by Niklas Zennström from (/project/skype), with many other early Skypers on its [https://www.atomico.com/team/](global team).
+
+Atomico publish annually a comprehensive, data-driven State of European Tech report: [read 2019 edition here](https://2019.stateofeuropeantech.com/)
+

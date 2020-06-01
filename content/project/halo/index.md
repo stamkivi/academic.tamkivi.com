@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Halo"
+title: "Halo Interactive DDB"
 summary: ""
 authors: []
 tags: ["founded"]
 categories: ["company"]
-date: 2020-06-01T10:55:54+03:00
+date: 2020-05-01T10:55:54+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

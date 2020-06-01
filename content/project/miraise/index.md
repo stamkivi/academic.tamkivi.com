@@ -4,8 +4,8 @@
 title: "Miraise"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["invested in", "vc"]
+categories: ["vc"]
 date: 2020-05-31T17:40:07+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -27,6 +27,13 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: Web site
+  url: https://www.miraise.vc/
+  icon_pack: fas
+  icon: link
+
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -39,3 +46,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Limited Partner and Mentor.
+
+MIRAISE is a Seed VC focused on engineer founders.
+
+Many of the biggest companies in the world were started by young engineers, yet most investors are sometimes not bold enough to back them. MIRAISE is uniquely positioned to change this in (from) Japan with the deep technical experience of engineering and operational experience.
+
+Founded by Shin Iwata (formerly of [Skype](/project/skype) and [Atomico](/project/atomico)).

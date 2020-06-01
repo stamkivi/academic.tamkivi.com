@@ -7,6 +7,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-06-01T10:56:27+03:00
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

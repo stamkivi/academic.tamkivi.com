@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Byfounders"
+title: "byFounders"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["invested in", "vc"]
+categories: ["vc"]
 date: 2020-05-30T15:28:28+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -26,6 +26,17 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: Web site
+  url: https://byfounders.vc/
+  icon_pack: fas
+  icon: link
+- name: Collective
+  url: https://byfounders.vc/collective/
+  icon_pack: fas
+  icon: users
+
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +50,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Collective member and Limited Partner.
+
+byFounders is a unique collective of founders backing mostly Nordic and Baltic early stage entrepreneurs. 
+
+Founded and managed by Eric Lagier and Tommy Andersen.
+
+Based in Copenhagen and San Francisco.

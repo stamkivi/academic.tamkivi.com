@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "500 Startups"
+title: "Estonian Founders Society"
 summary: ""
 authors: []
-tags: ["invested in", "vc"]
-categories: ["company"]
-date: 2020-05-26T15:42:20+03:00
+tags: ["worked at", "nonprofit" ]
+categories: ["nonprofit"]
+date: 2020-06-01T14:00:22+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,16 +17,15 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-
-links:
-- name: Web site
-  url: https://500.co/
-  icon_pack: fas
-  icon: link
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
 url_code: ""
 url_pdf: ""
@@ -40,5 +39,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Limited partner in a number of funds since 2012.

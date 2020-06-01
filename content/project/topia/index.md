@@ -44,6 +44,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Chief Product Officer.
 
 Topia’s Global Talent Mobility platform empowers HR teams to effectively deploy, manage, and engage employees across the world. We enable you to deliver mobility as part of your broader talent and business strategy with enhanced employee experiences.
 

@@ -8,6 +8,11 @@ tags:
 categories:
 - company
 date: 2020-05-30T12:27:07.000+00:00
+links:
+- name: Web site
+  url: https://www.xolo.io/
+  icon_pack: fas
+  icon: link
 external_link: ''
 image:
   caption: ''
