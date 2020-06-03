@@ -47,7 +47,9 @@ slides: ""
 ---
 Limited Partner.
 
-The Longevity Fund is investing in breakthroughs in human longevity. Founded by [Laura Deming](https://en.wikipedia.org/wiki/Laura_Deming).
+The Longevity Fund is investing in breakthroughs in human longevity.
+
+Based in San Francisco, California. Founded by [Laura Deming](https://en.wikipedia.org/wiki/Laura_Deming).
 
 In the 20th century, we learned that healthy lifespan is malleable. The scientific pathways behind this effect are incredibly complex and difficult to correctly control, but manipulating them may lead to new treatments for age-related disease. We want to get these therapeutic advances translated safely to patients as quickly as possible. 
 

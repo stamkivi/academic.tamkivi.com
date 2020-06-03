@@ -1,0 +1,22 @@
+# Theme metadata
+name = "tamkivi-theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#416BAC"
+# primary_light = "#ADB2C4"
+# primary_dark = "#FFFFFF"
+
+# Menu
+menu_primary = "#FFFFFF"   # menu background
+menu_text = "#2b2b2b"
+menu_text_active = "#416BAC"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(247, 247, 247)"
+home_section_even = "rgb(255, 255, 255)"
+
+font = "native"

@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Estonian Founders Society"
+title: "Careerkarma"
 summary: ""
 authors: []
-tags: ["worked at", "nonprofit" ]
-categories: ["nonprofit"]
-date: 2020-06-01T14:00:22+03:00
+tags: []
+categories: []
+date: 2020-06-02T15:05:08+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,15 +17,21 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Web site
+  url: 
+  icon_pack: fas
+  icon: link
+- name: Buy
+  url: 
+  icon_pack: fas
+  icon: shopping-cart
+- name: Trade shares
+  url: 
+  icon_pack: fas
+  icon: chart-line
 
 url_code: ""
 url_pdf: ""

@@ -4,10 +4,9 @@
 title: "Helmes"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["worked at"]
+categories: ["company"]
 date: 2020-06-01T16:39:55+03:00
-draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,6 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
+
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -40,3 +41,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Executive and Board member, 2001-2005.
+
+Helmes is one of the leading custom software developers and system integrators in the Baltic states, mostly serving large logistics, finance, telecom and utilities companies as well as the public sector. 
+
+I joined Helmes with a number of colleagues from the shut down of [Halo Interactive DDB](/project/halo). My first task was to build up Helmes' User Experience Design discipline and a Web Development team in the then budding Software Engineering division. 
+
+Starting from 2003 I sat on the corporate Board of Directors looking after new business generation and innovative ventures for the group. My clients were in Estonia, Scandinavia, Central Europe and the UK.

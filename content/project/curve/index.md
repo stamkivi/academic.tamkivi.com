@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Superangel"
+title: "Curve"
 summary: ""
 authors: []
-tags: ["invested in", "vc"]
-categories: ["vc"]
-date: 2020-06-01T16:43:41+03:00
+tags: []
+categories: []
+date: 2020-06-02T14:29:52+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,20 +17,21 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
 links:
 - name: Web site
-  url: https://www.superangel.io/
+  url: 
   icon_pack: fas
   icon: link
+- name: Buy
+  url: 
+  icon_pack: fas
+  icon: shopping-cart
+- name: Trade shares
+  url: 
+  icon_pack: fas
+  icon: chart-line
 
 url_code: ""
 url_pdf: ""
@@ -44,9 +45,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Limited Partner.
-
-Superangel provides early stage investments from entrepreneurs to entrepreneurs, runs Alpine house, a "high altitude" bootcamp program and Palo Alto Club, a coworking and events space in Tallinn, Estonia.
-
-Founded by Rain Rannu, Veljo Otsason and Marek Kiisa.
-

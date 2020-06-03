@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "President Ilves"
-summary: "Advisor to President Ilves of Estonia, 2009-12."
+summary: "Advisor to President Toomas Hendrik Ilves of Estonia, 2009-12."
 authors: []
 tags: ["worked at", "nonprofit"]
 categories: ["nonprofit"]

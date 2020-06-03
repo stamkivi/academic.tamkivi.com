@@ -4,8 +4,8 @@
 title: "Salv"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["invested in", "startup"]
+categories: ["company"]
 date: 2020-05-30T15:25:03+03:00
 
 # Optional external URL for project (replaces project detail page).

@@ -50,3 +50,8 @@ Seed investor.
 
 Oyster makes it easy to hire, pay, and give great benefits to your distributed team around the world.
 
+With Oyster, you can hire remote full-time employees anywhere in the world, provide fully-compliant payroll, and give your valued remote hires around the world the benefits and perks they deserve.
+
+Founded by Tony Jamous.
+
+

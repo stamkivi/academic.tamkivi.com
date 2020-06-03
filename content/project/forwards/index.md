@@ -41,9 +41,11 @@ slides: ""
 ---
 Co-founder & partner in the 90s.
 
-Forwards Studio was a legendary sound studio and indie label in Tartu, Estonia. Founded by Lauri Liivak.
+Forwards Studio was a legendary sound studio and indie label in Tartu, Estonia. Founded by Lauri Liivak in 1999.
 
-The studio spawned from late night recording sessions of [Bizarre](https://open.spotify.com/artist/5mDPYVLb5yNwRvxK5yPRZJ?si=o_aBm7JITOeV4K57kXKy-Q), one of my favourite bands of all time. We soon bought the studio equipment from a local radio station, and besides recording and mastering services for bands, earned money with radio ads and occasional sound production projects for multimedia projects at [Halo](/project/halo).
+The studio spawned from late night recording sessions of [Bizarre](https://open.spotify.com/artist/5mDPYVLb5yNwRvxK5yPRZJ?si=o_aBm7JITOeV4K57kXKy-Q), one of my favourite bands of all time. 
+
+I became a partner when we bought the studio equipment from a local radio station, and besides recording and mastering services for bands, started to make money with radio ads and occasional sound production projects for multimedia projects at [Halo](/project/halo).
 
 See also:
 * [list of Forwards Studio records at Discogs](https://www.discogs.com/label/355503-Forwards-Studio?sort=year&sort_order=)

@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Remotefirstcapital"
+title: "Starship"
 summary: ""
 authors: []
-tags: []
-categories: []
-date: 2020-06-01T20:02:54+03:00
+tags: ["invested in", "startup"]
+categories: ["company"]
+date: 2020-06-02T13:55:26+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,15 +17,17 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Web site
+  url: https://www.starship.xyz/
+  icon_pack: fas
+  icon: link
+- name: Order food
+  url: https://starshipdeliveries.com/
+  icon_pack: fas
+  icon: shopping-cart
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +41,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Investor.
+
+Starship is building a network of robots ready to serve you anytime, anywhere.
+
+Founded by Ahti Heinla and Janus Friis ([Skype](/project/skype) co-founders).
+
+{{< youtube mL-rsgMbnGI >}}

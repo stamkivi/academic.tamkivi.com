@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Pactum"
+title: "Remote First Capital"
 summary: ""
 authors: []
-tags: ["invested in", "startup"]
-categories: ["company"]
-date: 2020-05-30T15:28:36+03:00
+tags: ["invested in", "vc"]
+categories: ["vc"]
+date: 2020-06-01T20:02:54+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -26,11 +26,14 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
 links:
 - name: Web site
-  url: https://pactum.com/
+  url: https://www.remotefirstcapital.com/
   icon_pack: fas
   icon: link
+
+
 
 url_code: ""
 url_pdf: ""
@@ -44,12 +47,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Seed investor.
+Limited Partner.
 
-Pactum helps companies to unlock value from long tail by automatically negotiating contracts on a massive scale.
+A group of remote founders, operators and early investors investing in the next generation of remote work.
 
-The system learns to understand the value of different contract terms and uses AI to perform high-quality and considerate negotiations that reach a win-win outcome.
-
-We believe that in the near future, an organization’s strategic work will be done by humans while most of the operations and execution will be left to machines.
-
-Founded by all-star team: Martin Rand (from [Skype](/project/skype)), Kaspar Korjus ((from [E-residency](/project/e-residency))) and Kristjan Korjus (from [Starship](/project/starship)).
+Founded by [Andreas Klinger](https://twitter.com/andreasklinger)

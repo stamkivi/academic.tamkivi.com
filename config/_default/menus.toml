@@ -8,6 +8,11 @@
   url = "#portfolio"
   weight = 10
 
+[[main]]
+  name = "Bio"
+  url = "#about"
+  weight = 20
+
 #[[main]]
 #  name = "Home"
 #  url = "#about"
@@ -18,7 +23,6 @@
 #  url = "#posts"
 #  weight = 20
 
-
 # [[main]]
 #  name = "Writing"
 #  url = "#featured"
@@ -26,7 +30,7 @@
 
 [[main]]
   name = "Contact"
-  url = "contact"
+  url = "/contact"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

@@ -38,12 +38,12 @@ subtitle = ""
      tag = "invested in"
 
   [[content.filter_button]]
-     name = "Exited"
-     tag = "exited"
-
-  [[content.filter_button]]
      name = "Funds"
      tag = "vc"
+
+  [[content.filter_button]]
+     name = "Exits"
+     tag = "exited"
   
   [[content.filter_button]]
      name = "Non-profit"

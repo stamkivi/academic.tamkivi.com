@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Superangel"
+title: "Maki.vc"
 summary: ""
 authors: []
 tags: ["invested in", "vc"]
 categories: ["vc"]
-date: 2020-06-01T16:43:41+03:00
+date: 2020-06-02T15:24:23+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,18 +17,11 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
 links:
 - name: Web site
-  url: https://www.superangel.io/
+  url: https://maki.vc/
   icon_pack: fas
   icon: link
 
@@ -46,7 +39,6 @@ slides: ""
 ---
 Limited Partner.
 
-Superangel provides early stage investments from entrepreneurs to entrepreneurs, runs Alpine house, a "high altitude" bootcamp program and Palo Alto Club, a coworking and events space in Tallinn, Estonia.
+Maki.vc is an early-stage venture capital firm in Helsinki, Finland, partnering with deep tech & brand-driven companies obsessed with challenging category norms.
 
-Founded by Rain Rannu, Veljo Otsason and Marek Kiisa.
-
+Founded by Ilkka Kivimäki and Pirkka Palomäki.

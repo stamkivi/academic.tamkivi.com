@@ -4,8 +4,8 @@
 title: "Plumbr"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["invested in", "startup"]
+categories: ["company"]
 date: 2020-05-30T15:27:18+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -21,11 +21,12 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+
+links:
+- name: Web site
+  url: https://plumbr.io/
+  icon_pack: fas
+  icon: link
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +40,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Seed investor.
+
+Plumbr APM uses tracing to provide insights into your application’s performance.
+
+Plumbr helps customers by monitoring the real user experience of the customer’s software. They capture information about the bottlenecks and errors end users are experiencing. Integrating this information to the customer processes enables them to improve the digital user experience and cut the costs on maintenance.
+
+Founded by Priit Potter, Ivo Mägi, Nikita Salnikov-Tarnovski and Vladimir Shor.

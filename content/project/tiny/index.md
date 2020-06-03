@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tiny"
+title: "Tiny Supercomputer"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["invested in", "vc"]
+categories: ["vc"]
 date: 2020-06-01T20:04:04+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -26,6 +26,16 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: Web site
+  url: https://www.tiny.vc/
+  icon_pack: fas
+  icon: link
+- name: Crunchbase
+  url: https://www.crunchbase.com/organization/tiny-super-computer-investment-company
+  icon_pack: fas
+  icon: link
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +49,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Limited Partner.
+
+Tiny Supercomputer Investment Company (TinySCIC) is an early stage venture fund investing in pre-seed and seed stage companies in Europe, from Berlin, Germany. 
+
+Founded by Philipp Moehring and Andy Chung.

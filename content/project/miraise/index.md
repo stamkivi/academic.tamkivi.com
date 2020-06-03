@@ -48,7 +48,7 @@ slides: ""
 ---
 Limited Partner and Mentor.
 
-MIRAISE is a Seed VC focused on engineer founders.
+MIRAISE is a Seed VC from Tokyo, Japan focused on engineer founders.
 
 Many of the biggest companies in the world were started by young engineers, yet most investors are sometimes not bold enough to back them. MIRAISE is uniquely positioned to change this in (from) Japan with the deep technical experience of engineering and operational experience.
 

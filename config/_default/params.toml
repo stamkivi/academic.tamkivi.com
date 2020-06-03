@@ -13,7 +13,8 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "ocean"
+# theme = "ocean"
+theme = "tamkivi-theme"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -22,7 +23,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "minimal"
+font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -37,7 +38,7 @@ font_size = "M"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Organization"
+site_type = "Person"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -88,16 +89,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "sten@tamkivi.com"
+email = ""
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Pilliroo 67", city = "Laagri", region = "Harjumaa", postcode = "76401", country = "Estonia", country_code = "EE"}
+# address = {street = "Pilliroo 67", city = "Laagri", region = "Harjumaa", postcode = "76401", country = "Estonia", country_code = "EE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "", longitude = ""}
+#coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -108,15 +109,15 @@ directions = ""
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/seikatsu"},
-  {icon = "keybase", icon_pack = "fab", name = "Keybase", link = "https://keybase.io/sten"},
-  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://linkedin.com/in/stentamkivi"},
-  ]
+#contact_links = [
+#  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/seikatsu"},
+#  {icon = "keybase", icon_pack = "fab", name = "Keybase", link = "https://keybase.io/sten"},
+#  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://linkedin.com/in/stentamkivi"},
+#  ]
 
 ############################
 ## Social
@@ -126,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "seikatsu"
 
 ############################
 ## Regional Settings
@@ -207,7 +208,7 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
+  post_view = 3
   publication_view = 2
   talk_view = 2
 

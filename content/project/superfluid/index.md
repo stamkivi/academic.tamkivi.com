@@ -7,6 +7,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-05-31T17:40:01+03:00
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +18,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
