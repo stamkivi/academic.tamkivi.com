@@ -75,3 +75,5 @@ Sten Tamkivi is on a mission to help free people move and make governments compe
 Sten co-founded Teleport (acquired by Topia in 2017) as an EIR at Andreessen Horowitz, after serving at Skype as an early executive for over 8 years from startup to the $8.5B exit to MSFT. Sten started his entrepreneurial career founding the first digital media agency in Estonia in 1996, at the age of 18.
 
 Sten values a tolerant, open and creative society, speaks up for entrepreneurship, supports the startup movement, occasionally invests, pushes for better tech education and has advised President Ilves of Estonia on the above. He also holds a number of public, private and non-profit board seats.
+
+Sten holds a MS in Management degree from Stanford GSB and [blogged extensively throughout the time there as a Sloan Fellow](/stanford-sloan-2013/).
