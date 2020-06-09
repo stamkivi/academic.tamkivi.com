@@ -4,7 +4,7 @@
 title: "LHV"
 summary: ""
 authors: []
-tags: ["worked at"]
+tags: ["board"]
 categories: ["company"]
 date: 2020-05-29T17:52:43+03:00
 

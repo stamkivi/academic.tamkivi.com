@@ -23,20 +23,20 @@
   url = "/stanford-sloan-2013"
   weight = 30
 
-[[main]]
-  name = "Blog archive"
-  url = "/blog"
-  weight = 40
+# [[main]]
+#  name = "Blog archive"
+#  url = "https://sten.tamkivi.com"
+#  weight = 40
 
 [[main]]
   name = "Eesti tekstid"
   url = "/eesti-tekstid"
   weight = 50
 
-[[main]]
-  name = "Contact"
-  url = "/contact"
-  weight = 60
+# [[main]]
+#   name = "Contact"
+#   url = "/contact"
+#   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

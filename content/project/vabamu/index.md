@@ -4,7 +4,7 @@
 title: "Vabamu"
 summary: ""
 authors: []
-tags: ["nonprofit"]
+tags: ["nonprofit", "board"]
 categories: ["nonprofit"]
 date: 2020-05-30T17:46:48+03:00
 

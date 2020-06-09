@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -46,10 +46,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Late stage investor.
+Investor.
 
 Ride sharing and food delivery powerhouse covering dozens of markets in Europe and Africa with cars and scooters.
 
 Founded by Markus & Martin Villig.
-
-This fast growing Uber competitor has already become legendary in local angel investor circles as "too expensive at a million dollar seed round, but looks cheap at a billion".

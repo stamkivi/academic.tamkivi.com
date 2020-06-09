@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Skillshare"
+title: "Outfunnel"
 summary: ""
 authors: []
 tags: ["invested in", "startup"]
 categories: ["company"]
-date: 2020-06-02T14:30:06+03:00
+date: 2020-06-08T17:11:01+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,7 +21,7 @@ image:
 
 links:
 - name: Web site
-  url: https://www.skillshare.com/
+  url: https://outfunnel.com/
   icon_pack: fas
   icon: link
 
@@ -37,7 +37,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Investor. 
+Seed investor.
 
-Skillshare is an online learning community with thousands of classes for creative and curious people, on topics including illustration, design, photography, video, freelancing, and more. On Skillshare, millions of members come together to find inspiration and take the next step in their creative journey.
+Sales & Marketing, finally together. Outfunnel is a sales-centric marketing automation tool that tightly integrates with modern CRMs like Pipedrive and Copper. Automate email marketing campaigns, track email and website behavior from click to conversion and get useful insights.
 
+Founded by Andrus Purde, an early [Skyper](/project/skype)

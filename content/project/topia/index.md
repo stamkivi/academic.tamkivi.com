@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -46,7 +46,10 @@ slides: ""
 ---
 Chief Product Officer.
 
+![screenshot]
+
 Topia’s Global Talent Mobility platform empowers HR teams to effectively deploy, manage, and engage employees across the world. We enable you to deliver mobility as part of your broader talent and business strategy with enhanced employee experiences.
 
 The company started as Move Guides, and has been growing through a series of acquisitions fueled by 100M+ of venture capital funding. Sten joined Topia in 2017 through the acquisition of [Teleport](/project/teleport), and has been serving as Chief Product Officer since, overseeing the product management, engineering, design and data science functions of the company.
 
+[screenshot]: topia-wheel.png

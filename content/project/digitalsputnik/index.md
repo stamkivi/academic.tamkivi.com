@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 links:
 - name: Web site
@@ -47,4 +47,7 @@ Digital Sputnik's unqiue software controlled LED lightning systems have been use
 
 Now they have made this next gen movie magic tech available to prosumers with their affordable Voyager series.
 
-Founded by Kaur & Kaspar Kallas.
+{{< youtube AFa5EFDkntE >}}
+
+
+Digital Sputnik is based in Tallinn, Estonia for both R&D and manufacturing. Founded by Kaur & Kaspar Kallas.

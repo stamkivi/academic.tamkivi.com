@@ -4,7 +4,7 @@
 title: "ASI Private Equity"
 summary: ""
 authors: []
-tags: ["invested in", "vc"]
+tags: ["invested in", "vc", "board"]
 categories: ["vc"]
 date: 2020-06-01T16:39:46+03:00
 

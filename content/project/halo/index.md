@@ -4,7 +4,7 @@
 title: "Halo Interactive DDB"
 summary: ""
 authors: []
-tags: ["founded", "exited"]
+tags: ["founded", "worked at", "exited"]
 categories: ["company"]
 date: 2020-05-01T10:55:54+03:00
 
@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,8 +39,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Founded in 1996, straight out of high school. 
 
-The first digital media agency in Estonia. Founded in 1996 straight out of high school. Sold to [DDB Worldwide](https://www.ddb.com/) in 1997. Folded in 2001 along with dotcom bubble.
+The first digital media agency in Estonia. Sold to [DDB Worldwide](https://www.ddb.com/) in 1997. Folded in 2001 along with dotcom bubble.
 
 A Northern Star of its time, Halo spawned a few dozen influential early internet people (UX, design, web development, software engineering) who have had notable influence on the Estonian and European startup scene over the decade since.
 
+For some serious nostalgic flashbacks, see snapshots of halo.ee in 2001 on WayBackMachine:
+* [1998](https://web.archive.org/web/19980629092318/http://www.halo.ee/)
+* [2001](https://web.archive.org/web/20010203230300/http://www.halo.ee/)

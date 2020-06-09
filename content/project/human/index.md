@@ -43,8 +43,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Invested in Seed round.
+Seed investor.
 
 Human built an iOS app with elegant game mechanics to inspire people to move 30 minutes, every day.
 

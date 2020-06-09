@@ -4,8 +4,8 @@
 title: "Sellfy"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["invested in", "startup"]
+categories: ["company"]
 date: 2020-05-30T15:27:04+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -26,6 +26,14 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+
+links:
+- name: Website
+  url: https://sellfy.com/
+  icon_pack: fas
+  icon: link
+
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +47,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Seed investor.
+
+A simple, yet powerful e-commerce platform for creators. Sell digital products, physical goods and subscriptions all from one place.
+
+Founded by Maris Dagis and Kristaps Alks.
+
+Based in Riga, Latvia.

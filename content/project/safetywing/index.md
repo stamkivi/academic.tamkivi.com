@@ -4,8 +4,8 @@
 title: "Safetywing"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["invested in", "startup"]
+categories: ["company"]
 date: 2020-05-30T15:28:44+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -17,15 +17,13 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Website
+  url: https://safetywing.com/
+  icon_pack: fas
+  icon: link
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +37,17 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Seed investor.
+
+SafetyWing provides Medical and Health Insurance for the remote workforce roaming around the planet.
+
+* [Nomad Insurance](https://safetywing.com/nomad-insurance): Travel medical insurance, covers people from all over the world, while outside their home country. Can be as low as $40/month.
+* [Remote Health for individuals](https://safetywing.com/remote-health/individuals): Global health insurance
+for remote workers and nomads. A fully-equipped health insurance made for remote workers and nomads who spend as much time abroad as they please. Full coverage in your home country, and no exclusions for pandemics.
+* [Remote Health for companies](https://safetywing.com/remote-health/companies): A fully equipped health insurance that works for your entire international team and independent remote workers. No exclusions for pandemics.
+
+Founded by Sondre Rasch. 
+
+Formally from Oslo, Norway and San Francisco, CA - but with a fully distributed team, appropriately.
+
+Part of YCombinator Winter 2018 batch.

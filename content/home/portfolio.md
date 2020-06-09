@@ -30,13 +30,17 @@ subtitle = ""
      tag = "founded"
 
   [[content.filter_button]]
-     name = "Worked at"
-     tag = "worked at"
-  
-  [[content.filter_button]]
      name = "Invested in"
      tag = "invested in"
 
+  [[content.filter_button]]
+     name = "Boards"
+     tag = "board"
+  
+  [[content.filter_button]]
+     name = "Worked at"
+     tag = "worked at"
+  
   [[content.filter_button]]
      name = "Funds"
      tag = "vc"

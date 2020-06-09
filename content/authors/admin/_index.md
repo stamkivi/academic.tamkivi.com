@@ -76,4 +76,8 @@ Sten co-founded Teleport (acquired by Topia in 2017) as an EIR at Andreessen Hor
 
 Sten values a tolerant, open and creative society, speaks up for entrepreneurship, supports the startup movement, occasionally invests, pushes for better tech education and has advised President Ilves of Estonia on the above. He also holds a number of public, private and non-profit board seats.
 
-Sten holds a MS in Management degree from Stanford GSB and [blogged extensively throughout the time there as a Sloan Fellow](/stanford-sloan-2013/).
+Sten holds a MS in Management degree from Stanford GSB. 
+
+---
+He used to blog ([see archive here](https://sten.tamkivi.com/)), especially extensively [through his time as a Sloan Fellow](/stanford-sloan-2013/).
+

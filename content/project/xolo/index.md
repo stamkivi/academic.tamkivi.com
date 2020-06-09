@@ -17,7 +17,7 @@ external_link: ''
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 url_code: ''
 url_pdf: ''
 url_slides: ''

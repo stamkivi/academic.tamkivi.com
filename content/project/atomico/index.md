@@ -48,7 +48,9 @@ slides: ""
 
 Limited Partner.
 
-Atomico invests in Europe’s most ambitious tech founders at Series A and beyond. Founded by Niklas Zennström from (/project/skype), with many other early Skypers on its [https://www.atomico.com/team/](global team).
+Atomico invests in Europe’s most ambitious tech founders at Series A and beyond.
 
-Atomico publish annually a comprehensive, data-driven State of European Tech report: [read 2019 edition here](https://2019.stateofeuropeantech.com/)
+Founded by Niklas Zennström from [Skype](/project/skype), with many other early Skypers on its [global team](https://www.atomico.com/team/).
+
+Atomico publish annually a comprehensive, data-driven State of European Tech report: [read the 2019 edition here](https://2019.stateofeuropeantech.com/)
 

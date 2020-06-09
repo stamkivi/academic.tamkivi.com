@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Skillshare"
+title: "LocalGlobe"
 summary: ""
 authors: []
-tags: ["invested in", "startup"]
-categories: ["company"]
-date: 2020-06-02T14:30:06+03:00
+tags: ["invested in", "vc"]
+categories: ["vc"]
+date: 2020-06-08T19:15:21+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -20,8 +20,12 @@ image:
   preview_only: true
 
 links:
-- name: Web site
-  url: https://www.skillshare.com/
+- name: LocalGlobe
+  url: https://localglobe.vc/
+  icon_pack: fas
+  icon: link
+- name: Phoenix Court
+  url: https://www.phoenixcourt.co/
   icon_pack: fas
   icon: link
 
@@ -37,7 +41,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Investor. 
+Limited Partner.
 
-Skillshare is an online learning community with thousands of classes for creative and curious people, on topics including illustration, design, photography, video, freelancing, and more. On Skillshare, millions of members come together to find inspiration and take the next step in their creative journey.
+LocalGlobe has spawned into a notable startup building empire in London.
 
+Their Phoenix Court next to King's Cross is the home of LocalGlobe, Latitude, The Newton Venture Program and Alpha Works. It's a Members’ Club for the founders that we work with and their teams. We’re a hub for the local community and wider ecosystem.
+
+Founded by Saul Klein and Robin Klein.

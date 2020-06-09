@@ -52,6 +52,9 @@ slides: ""
 ---
 Seed investor.
 
-Fleep is a conversation-centric work messenger from a group of early Skype engineers.
+Fleep is a conversation-centric work messenger from a group of early [Skype](/project/skype) engineers.
+![screenshot]
 
 Founded by Henn Ruukel, Asko Oja, Erik Laansoo, Andres Järviste, Marko Kreen.
+
+[screenshot]: 10-Fleep-screenshot-mac.png

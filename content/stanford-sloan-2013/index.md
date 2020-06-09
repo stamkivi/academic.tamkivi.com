@@ -95,19 +95,14 @@ This page is a table of contents for all the blog posts on Sten&#8217;s life as 
 
 My bookshelves on [Goodreads][61]:
 
-  * <span style="line-height: 13px;"><a href="http://www.goodreads.com/shelf/show/stanford-sloan">Official required readings</a> from all the courses I&#8217;ve taken at Stanford.</span>
+  * [Official required readings][66] from all the courses I&#8217;ve taken at Stanford.</span>
   * Incomplete list of various [other books for optional reading][62], referenced in Stanford courses and by guests.
 
 For more Sloan writing, feel free to turn to my classmates&#8217; blogs:
 
   * Herbert: [the Good, the Bad, the Curious][63]
-  * Gunawan: [micro stories >> MACRO MEANING][64]
   * Sumit: [OptiMystique][65]
-  * Tracee: [The Cat&#8217;s Eye &#8211; Stanford Sloan Life in a Girl&#8217;s Point of View][66]
 
-&nbsp;
-
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2Fstanford-sloan-2013%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: https://en.wikipedia.org/wiki/Sloan_Fellows 
  [2]: https://www.gsb.stanford.edu/programs/msx
@@ -172,6 +167,5 @@ For more Sloan writing, feel free to turn to my classmates&#8217; blogs:
  [61]: http://www.goodreads.com/user/show/15310305-sten-tamkivi
  [62]: http://www.goodreads.com/shelf/show/stanford-referenced
  [63]: http://guizishanren.com/
- [64]: http://www.macromeaning.com/
  [65]: http://opti-mystique.blogspot.com/
- [66]: http://catseye2013.blogspot.com/
+ [66]: http://www.goodreads.com/shelf/show/stanford-sloan

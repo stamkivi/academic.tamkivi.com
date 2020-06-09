@@ -39,10 +39,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Invested in Seed round.
+Seed investor.
 
 Sunrise built a truly better calendar on web and mobile.
 
-Founded by Pierre Valade and Jeremy Le Van.
+![screenshot]
+
+Founded by Pierre Valade and Jeremy Le Van in NYC.
 
 [Acquired by Microsoft in 2015 for $100M+](https://techcrunch.com/2015/02/04/microsoft-sunrise/).
+
+[screenshot]: sunrise-screenshot.png

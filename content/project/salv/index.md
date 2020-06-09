@@ -4,7 +4,7 @@
 title: "Salv"
 summary: ""
 authors: []
-tags: ["invested in", "startup"]
+tags: ["invested in", "founded", "startup", "board"]
 categories: ["company"]
 date: 2020-05-30T15:25:03+03:00
 
@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -26,6 +26,12 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: Website
+  url: https://salv.com/
+  icon_pack: fas
+  icon: link
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +45,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Founding Board Member.
+
+Beat financial crime with a flexible AML platform. Today, millions of people around the world are cheated out of good lives because only around 1-2% of money laundering is detected. It’s time to change that. Salv knows smartly-built tech will finally help the good guys get ahead.
+
+Founded by Taavi Tamkivi, Jeff McClelland and Sergey Rumjantsev (all from early [Skype](/project/skype) and [Transferwise](/project/transferwise)) fraud fighting fame.

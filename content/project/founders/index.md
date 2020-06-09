@@ -4,7 +4,7 @@
 title: "Estonian Founders Society"
 summary: ""
 authors: []
-tags: ["worked at", "nonprofit" ]
+tags: ["worked at", "nonprofit"]
 categories: ["nonprofit"]
 date: 2020-06-01T14:00:22+03:00
 

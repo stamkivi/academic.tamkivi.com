@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Skillshare"
+title: "Filecoin"
 summary: ""
 authors: []
-tags: ["invested in", "startup"]
-categories: ["company"]
-date: 2020-06-02T14:30:06+03:00
+tags: []
+categories: []
+date: 2020-06-08T19:14:56+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,9 +21,17 @@ image:
 
 links:
 - name: Web site
-  url: https://www.skillshare.com/
+  url: 
   icon_pack: fas
   icon: link
+- name: Buy
+  url: 
+  icon_pack: fas
+  icon: shopping-cart
+- name: Trade shares
+  url: 
+  icon_pack: fas
+  icon: chart-line
 
 url_code: ""
 url_pdf: ""
@@ -37,7 +45,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Investor. 
-
-Skillshare is an online learning community with thousands of classes for creative and curious people, on topics including illustration, design, photography, video, freelancing, and more. On Skillshare, millions of members come together to find inspiration and take the next step in their creative journey.
-
