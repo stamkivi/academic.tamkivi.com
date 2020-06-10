@@ -79,5 +79,7 @@ Sten values a tolerant, open and creative society, speaks up for entrepreneurshi
 Sten holds a MS in Management degree from Stanford GSB. 
 
 ---
-He used to blog ([see archive here](https://sten.tamkivi.com/)), especially extensively [through his time as a Sloan Fellow](/stanford-sloan-2013/).
+He used to blog ([see archive here][blogarchive]), especially extensively [through his time as a Sloan Fellow][sloanarchive].
 
+[blogarchive]: https://sten.tamkivi.com/
+[sloanarchive]: https://sten.tamkivi.com/stanford-sloan-2013/

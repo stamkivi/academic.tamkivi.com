@@ -18,15 +18,15 @@
   url = "#about"
   weight = 20
 
-[[main]]
-  name = "Stanford Sloan 2013"
-  url = "/stanford-sloan-2013"
-  weight = 30
-
 # [[main]]
-#  name = "Blog archive"
-#  url = "https://sten.tamkivi.com"
-#  weight = 40
+#  name = "Stanford Sloan 2013"
+#  url = "/stanford-sloan-2013"
+#  weight = 30
+
+[[main]]
+  name = "Blog archive"
+  url = "https://sten.tamkivi.com"
+  weight = 40
 
 [[main]]
   name = "Eesti tekstid"

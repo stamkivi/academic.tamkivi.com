@@ -4,8 +4,8 @@
 title: "Superfluid"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["invested in", "startup", "blockchain"]
+categories: ["company"]
 date: 2020-05-31T17:40:01+03:00
 draft: true
 
@@ -40,3 +40,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Seed investor.
+
+Superfluid is building Fintech infrastructure to enable real-time finance.
+
+Our mission is to empower people worldwide to do more with their money by converting idle capital into working realtime streams. Making capital more efficient means you can do more with less, increasing your independence and happiness.
+
+Founded by Francesco Renzi, Miao ZhiCheng & Michele D'Aliessi.

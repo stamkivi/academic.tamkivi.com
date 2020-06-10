@@ -4,8 +4,8 @@
 title: "Filecoin"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["invested in", "startup", "blockchain"]
+categories: ["company"]
 date: 2020-06-08T19:14:56+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -21,17 +21,17 @@ image:
 
 links:
 - name: Web site
-  url: 
+  url: https://filecoin.io/
   icon_pack: fas
   icon: link
-- name: Buy
-  url: 
+- name: Primer
+  url: https://coinlist.co/assets/index/filecoin_index/Filecoin-Primer-c74e73db1d65598ca171397df9d219de6b7a7ef80a4886bb152c01883aea7e79.pdf
   icon_pack: fas
-  icon: shopping-cart
-- name: Trade shares
-  url: 
+  icon: file-pdf
+- name: White paper
+  url: https://filecoin.io/filecoin.pdf
   icon_pack: fas
-  icon: chart-line
+  icon: file-pdf
 
 url_code: ""
 url_pdf: ""
@@ -45,3 +45,16 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Investor.
+
+Filecoin is a decentralized storage network, powered by a blockchain and a native token.
+
+Built by [Protocol Labs][1], on top of [IPFS][2], an open source peer-to-peer hypermedia protocol.
+
+Founded by [Juan Batiz-Benet][3].
+
+{{< youtube EClPAFPeXIQ >}}
+
+[1]: https://protocol.ai/
+[2]: https://ipfs.io/
+[3]: https://en.wikipedia.org/wiki/Juan_Benet_(computer_scientist)
