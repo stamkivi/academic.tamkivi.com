@@ -7,10 +7,10 @@ authors: []
 tags: ["invested in"]
 categories: ["company"]
 date: 2020-05-30T15:29:37+03:00
-draft: true
+draft: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.oysterhr.com/"
+#external_link: "https://www.oysterhr.com/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -54,4 +54,7 @@ With Oyster, you can hire remote full-time employees anywhere in the world, prov
 
 Founded by Tony Jamous.
 
+Read more:
+* [Tony's post announcing his next mission][1] at Oyster
 
+[1]: https://www.linkedin.com/pulse/announcing-my-next-venture-tony-jamous/

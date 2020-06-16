@@ -46,8 +46,14 @@ url_video: ""
 slides: ""
 ---
 
-Invested in Seed round and beyond. Use regularly.
+Seed investor & regular user.
 
 The cheap, fast way to send money abroad.
 
 Transferwise is on a mission to bring transparency to finance. We charge as little as possible, and we always show you upfront. No hidden fees. No bad exchange rates. No surprises.
+
+Read more:
+* [Learning from My Mistakes][1] by Ben Horowitz. Fun backstory on how sometimes great things happen when friends get connected. Even if it takes some time and persistance.
+
+
+[1]: https://a16z.com/2015/01/26/learning-from-my-mistakes/
