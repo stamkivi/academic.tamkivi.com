@@ -68,6 +68,9 @@ email: "sten@tamkivi.com"
 #user_groups:
 #- Researchers
 #- Visitors
+
+aliases:
+  - /about/ 
 ---
 
 Sten Tamkivi is on a mission to help free people move and make governments compete for every citizen.

@@ -13,10 +13,13 @@ dsq_thread_id:
   - 1576309503
 
 ---
-See leht koondab otseviiteid pikematele tekstidele, mis ma olen aastate jooksul siin blogis ja/või ajakirjanduses eesti keeles ja Eesti tulevikule mõeldes kirjutanud. Teemad üsna laialt need, mis mulle südamelähedased: innovatsioon, ettevõtlus- ja majanduskeskkond, reaalharidus, osalusdemokraatia, e-riik, ühiskonna väärtused:
+See leht koondab otseviiteid pikematele tekstidele, mis Sten on aastate jooksul blogides ja ajakirjanduses eesti keeles ja Eesti tulevikule mõeldes kirjutanud-rääkinud.
+
+Teemad üsna laialt need, mis mulle südamelähedased: innovatsioon, ettevõtlus- ja majanduskeskkond, reaalharidus, osalusdemokraatia, e-riik, ühiskonna väärtused:
 
   * [Eesti majanduspoliitilised valikud - ohud ja võimalused ettevõtlusele][28] (9. mail 2017, kõne Riigikogus)
   * **[Milleks meile idufirmad?][30]** :star2: (11. september 2016, Memokraat, koos Kristjan Lepikuga)
+  * [Piirideta maailma piiritu potentsiaal][32] (16. juuni 2016, intervjuu Müürilehele, hiljem Postimehes)
   * [Inimesed on liikvel ja Eestil on neid vaja][29] (2. märts 2016, Tuulelohe Lend konverentsi ettekanne)
   * **[Põlev kardin][31]** :star2: (10. mai 2015, Memokraat)
   * **[Emafirmade isamaa][2]** :star2: (27. detsember 2013, Memokraat)
@@ -81,3 +84,4 @@ _Nimekiri ei ole täielik kirjutiste arhiiv, täiendamisel._
  [29]: https://memokraat.ee/2016/03/inimesed-on-liikvel-ja-eestil-on-neid-vaja/
  [30]: https://memokraat.ee/2016/09/milleks-meile-idufirmad/
  [31]: https://memokraat.ee/2015/05/polev-kardin/
+ [32]: https://www.muurileht.ee/piirideta-maailma-piiritu-potentsiaal-intervjuu-sten-tamkiviga/

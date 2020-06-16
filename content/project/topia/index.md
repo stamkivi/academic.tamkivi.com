@@ -4,7 +4,7 @@
 title: "Topia"
 summary: ""
 authors: []
-tags: ["worked at"]
+tags: ["worked at", "invested in"]
 categories: ["company"]
 date: 2020-05-30T18:14:28+03:00
 
