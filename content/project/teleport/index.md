@@ -55,4 +55,11 @@ In 2017, Teleport was acquired by Move Guides (now [Topia](/project/topia)) to b
 
 For more from this period, see:
 * [Teleport blog](https://teleport.org/blog/)
+  * [Public launch blog post][1] - May 8, 2014
+  * [Move Guides acquistion blog post][2] - April 3, 2017
 * Our [writings and interviews about remote work](https://teleport.org/remote/)
+
+
+
+[1]: https://teleport.org/blog/2014/05/welcome/
+[2]: https://teleport.org/blog/2017/04/teleport-a-move-guides-company/

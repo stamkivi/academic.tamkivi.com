@@ -17,6 +17,8 @@ See leht koondab otseviiteid pikematele tekstidele, mis Sten on aastate jooksul 
 
 Teemad üsna laialt need, mis mulle südamelähedased: innovatsioon, ettevõtlus- ja majanduskeskkond, reaalharidus, osalusdemokraatia, e-riik, ühiskonna väärtused:
 
+  * [Eesti idufirmad on ebaratsionaalselt patriootlikud][34] (6. august 2020, intervjuu Postimehele)
+  * [Piiritult mõelda ja elada][33] (8. september 2018, intervjuu Meie Maale)
   * [Eesti majanduspoliitilised valikud - ohud ja võimalused ettevõtlusele][28] (9. mail 2017, kõne Riigikogus)
   * **[Milleks meile idufirmad?][30]** :star2: (11. september 2016, Memokraat, koos Kristjan Lepikuga)
   * [Piirideta maailma piiritu potentsiaal][32] (16. juuni 2016, intervjuu Müürilehele, hiljem Postimehes)
@@ -85,3 +87,5 @@ _Nimekiri ei ole täielik kirjutiste arhiiv, täiendamisel._
  [30]: https://memokraat.ee/2016/09/milleks-meile-idufirmad/
  [31]: https://memokraat.ee/2015/05/polev-kardin/
  [32]: https://www.muurileht.ee/piirideta-maailma-piiritu-potentsiaal-intervjuu-sten-tamkiviga/
+ [33]: https://medium.com/@seikatsu/piirtult-m%C3%B5elda-ja-elada-ac17343d654b
+ [34]: https://sten.tamkivi.com/2020/08/eesti-idufirmad-on-ebaratsionaalselt-patriootlikud/
