@@ -49,6 +49,12 @@ Investor.
 
 Filecoin is a decentralized storage network, powered by a blockchain and a native token.
 
+I invested in the nascent project in 2017. Filecoin mainnet launched in October 2020 and is currently valued at:
+
+<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
+<coingecko-coin-ticker-widget currency="usd" coin-id="filecoin" locale="en"></coingecko-coin-ticker-widget>
+
+
 Built by [Protocol Labs][1], on top of [IPFS][2], an open source peer-to-peer hypermedia protocol.
 
 Founded by [Juan Batiz-Benet][3].

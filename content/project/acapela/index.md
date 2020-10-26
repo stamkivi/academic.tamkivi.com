@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Plumbr"
+title: "Acapela"
 summary: ""
 authors: []
-tags: ["invested in", "startup", "exited"]
+tags: ["invested in", "startup"]
 categories: ["company"]
-date: 2020-05-30T15:27:18+03:00
+date: 2020-10-26T09:15:22+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,12 +21,15 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-
 links:
 - name: Web site
-  url: https://plumbr.io/
+  url: https://acape.la/
   icon_pack: fas
   icon: link
+- name: Follow
+  url: https://twitter.com/tryacapela
+  icon_pack: fab
+  icon: twitter
 
 url_code: ""
 url_pdf: ""
@@ -42,10 +45,11 @@ slides: ""
 ---
 Seed investor.
 
-Plumbr APM uses tracing to provide insights into your application’s performance.
+[Acapela][1] helps remote teams be more productive by avoiding unnecessary video meetings.
 
-Plumbr helps customers by monitoring the real user experience of the customer’s software. They capture information about the bottlenecks and errors end users are experiencing. Integrating this information to the customer processes enables them to improve the digital user experience and cut the costs on maintenance.
+Founded by Roland Grenke and Heiki Riesenkampf.
 
-Founded by Priit Potter, Ivo Mägi, Nikita Salnikov-Tarnovski and Vladimir Shor.
+Read more from the [launch coverage at Techcrunch][2].
 
-[Acquired by Splunk in October 2020](https://techcrunch.com/2020/10/20/splunk-acquires-plumbr-and-rigor-to-build-out-its-observability-platform/).
+[1]: https://acape.la/
+[2]: https://techcrunch.com/2020/10/21/acapela/
