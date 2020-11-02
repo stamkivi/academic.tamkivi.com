@@ -4,7 +4,7 @@
 title: "Forwards Studio"
 summary: ""
 authors: []
-tags: ["founded", "invested in"]
+tags: ["founded", "invested in", "exited"]
 categories: ["company"]
 date: 2020-05-01T10:56:31+03:00
 
