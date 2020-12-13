@@ -4,7 +4,7 @@
 title: "Teleport"
 summary: ""
 authors: []
-tags: ["founded", "invested in", "worked at", "exited"]
+tags: ["founded", "worked at", "exited"]
 categories: ["company"]
 date: 2020-05-30T15:14:20+03:00
 

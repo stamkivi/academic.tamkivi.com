@@ -4,7 +4,7 @@
 title: "Plumbr"
 summary: ""
 authors: []
-tags: ["invested in", "startup", "exited"]
+tags: ["startup", "exited"]
 categories: ["company"]
 date: 2020-05-30T15:27:18+03:00
 

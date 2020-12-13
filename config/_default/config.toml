@@ -22,7 +22,7 @@ copyright = "Sten Tamkivi &copy; {year}"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic"
+theme = "academic-tamkivi"
 
 # Get last modified date for content from Git?
 enableGitInfo = true

@@ -4,7 +4,7 @@
 title: "Sunrise"
 summary: ""
 authors: []
-tags: ["invested in", "exited"]
+tags: ["startup", "exited"]
 categories: ["company"]
 date: 2020-05-30T15:27:32+03:00
 
