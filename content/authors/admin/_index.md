@@ -73,7 +73,7 @@ aliases:
   - /about/ 
 ---
 
-Sten Tamkivi is on a mission to help free people move and make governments compete for every citizen.
+Sten Tamkivi invests in the next legendary tech companies from Europe via [Plural Platform][plural].
 
 Sten co-founded Teleport (acquired by Topia in 2017) as an EIR at Andreessen Horowitz, after serving at Skype as an early executive for over 8 years from startup to the $8.5B exit to MSFT. Sten started his entrepreneurial career founding the first digital media agency in Estonia in 1996, at the age of 18.
 
@@ -84,5 +84,6 @@ Sten holds a MS in Management degree from Stanford GSB.
 ---
 He used to blog ([see archive here][blogarchive]), especially extensively [through his time as a Sloan Fellow][sloanarchive].
 
+[plural]: https://pluralplatform.com/
 [blogarchive]: https://sten.tamkivi.com/
 [sloanarchive]: https://sten.tamkivi.com/stanford-sloan-2013/

@@ -8,10 +8,11 @@
 #  url = "#about"
 #  weight = 10
 
-[[main]]
-  name = "Portfolio"
-  url = "#portfolio"
-  weight = 10
+# removed Jul 16, 2022
+# [[main]]
+#  name = "Portfolio"
+#  url = "#portfolio"
+#  weight = 10
 
 [[main]]
   name = "Bio"
